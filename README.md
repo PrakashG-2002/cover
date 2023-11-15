@@ -137,6 +137,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![Alt text](AOE.png)
+![image](https://github.com/PrakashG-2002/cover/assets/144507749/bd8a1020-757d-4a7f-8c70-a01e4dafca5c)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
